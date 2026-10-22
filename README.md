@@ -21,6 +21,8 @@ Features:
 - Uses AI image classification to distinguish fresh and spoiled food.
 - Displays freshness information through a user interface.
 - Learning outcomes: Sensor interfacing, ESP32 programming, IoT, and AI integration.
+  
+3.ESP32 based food freshness detector stimulation using a gas sensor and three led.
 
 More embedded systems projects will be added as I continue learning.
 
